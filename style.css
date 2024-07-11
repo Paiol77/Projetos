@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 .ground {
-  margin: 3rem;
+  padding: 3rem;
 }
 .cabecalho {
   display: flex;
