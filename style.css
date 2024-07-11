@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 .ground {
-  padding: 3rem;
+  margin: 3rem;
 }
 .cabecalho {
   display: flex;
@@ -196,7 +196,7 @@
 }
 .topic-final {
   display: flex;
-  flex-direction: column;
+  flex-direction: column; 
 }
 .message-email {
   align-items: center;
